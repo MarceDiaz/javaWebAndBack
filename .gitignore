@@ -3,7 +3,11 @@
 .settings/
 .classpath
 .project
+.idea/
+target/
 /test-output/
 chromedriver.exe
 *.rar
 *.7z
+
+**/.idea/workspace.xml **/.idea/tasks.xml
